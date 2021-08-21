@@ -1,0 +1,3 @@
+[submodule "config-repository"]
+    path = config-repository
+    url = https://github.com/hnpanther/config-repository.git
